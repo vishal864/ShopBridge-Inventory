@@ -1,11 +1,11 @@
 # ShopBridge-Inventory
 
 ShopBridge Project contains 6 layers :-
-ShopBridge.API
-ShopBridge.UI
-ShopBridge.Repository
-ShopBridge.Service
-ShopBridge.Model
+ShopBridge.API,
+ShopBridge.UI,
+ShopBridge.Repository,
+ShopBridge.Service,
+ShopBridge.Model,
 ShopBridge.UnitTest
 
 ShopBridge.API -> API layer is used for API call to service layer.
@@ -21,7 +21,7 @@ Set ShopBridge.UI project as start-up project.
 
 Befor running the solution follow below steps :-
 
-Open ShopBridge.UI Web.config file and look for the below key
+Open ShopBridge.UI Web.config file and look for the ApiBaseAddress key and chnage its value accordindly.
 
 <add key="ApiBaseAddress" value="http://localhost:50347/api/" />
 
