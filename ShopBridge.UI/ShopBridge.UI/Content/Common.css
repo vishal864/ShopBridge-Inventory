@@ -1,0 +1,131 @@
+﻿body 
+{
+    background: #554;
+}
+
+.content 
+{
+    max-width: 60%;
+    margin: auto;
+    background: white;
+    padding: 10px;
+    margin-top: 5%;    
+}
+
+.clearfix 
+{
+    overflow-y: auto;
+    overflow-x:hidden;
+}
+
+#gridInventory 
+{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#gridInventory td, #gridInventory th 
+{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#gridInventory tr:nth-child(even) 
+{
+    background-color: #dddddd;
+}
+
+.inner-div 
+{
+    text-align: center;
+    background-color: ghostwhite;
+    border: 2px solid;
+    margin: -5px -5px -5px -5px;
+}
+
+.input-sm
+{
+    margin-right:10px !important;
+}
+
+.highlight 
+{
+    border: 1px solid red !important;
+    background-color : lightyellow;
+}
+
+td.dataTables_empty
+{
+    text-align:center!important;
+}
+
+#tblGrid
+{
+    width:500Px;
+}
+
+#tblGrid td
+{
+    width:auto;
+}
+
+/*.dataTables_length 
+{
+    margin-left: -135px;
+}*/
+
+/*textarea {
+    resize: none;
+}*/
+
+#spnDescription {    
+    word-wrap: break-word;
+}
+
+#spnName {
+    word-wrap: break-word;
+}
+
+/*Css for Modal popup*/
+.modal-dialog {
+    height: 100px;
+}
+
+.modal-header {
+    /*background-color: #357ebd;
+    padding: 16px 16px;
+    color: #FFF;
+    border-bottom: 2px dashed #337AB7;*/
+    
+    min-height: 16.43px;
+    padding: 15px;
+    border-bottom: 0px solid #337AB7;
+}
+.modal-content {
+    background-color: #e4e5d9; /*#e4e5d9;*/
+    box-shadow: inset 0px 0px 7px rgba(0,0,0,.5), 1px 1px 5px #fff;
+}
+.modal-body {
+    position: relative;
+    padding: 15px;
+}
+.modal-footer {
+    padding: 15px;
+    text-align: right;
+    border-top: 1px solid #e5e5e5;
+}
+.button-default {
+    text-shadow: 0 1px 0 #fff;
+    background-image: -webkit-linear-gradient(top,#fff 0,#e0e0e0 100%);
+    background-image: -o-linear-gradient(top,#fff 0,#e0e0e0 100%);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#fff),to(#e0e0e0));
+    background-image: linear-gradient(to bottom,#fff 0,#e0e0e0 100%);
+}
+
+table.dataTable tbody td {
+    word-break: break-word;
+    vertical-align: top;
+}
+

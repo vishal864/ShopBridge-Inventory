@@ -1,0 +1,4 @@
+D:\Dotnet\ShopBridge.UI\ShopBridge.Model\bin\Debug\ShopBridge.Model.dll
+D:\Dotnet\ShopBridge.UI\ShopBridge.Model\bin\Debug\ShopBridge.Model.pdb
+D:\Dotnet\ShopBridge.UI\ShopBridge.Model\obj\Debug\ShopBridge.Model.dll
+D:\Dotnet\ShopBridge.UI\ShopBridge.Model\obj\Debug\ShopBridge.Model.pdb

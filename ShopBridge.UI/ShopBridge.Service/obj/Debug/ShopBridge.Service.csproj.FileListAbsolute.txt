@@ -1,0 +1,10 @@
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\bin\Debug\ShopBridge.Service.dll
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\bin\Debug\ShopBridge.Service.pdb
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\bin\Debug\ShopBridge.Repository.dll
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\bin\Debug\EntityFramework.dll
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\bin\Debug\ShopBridge.Repository.pdb
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\bin\Debug\ShopBridge.Repository.dll.config
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\bin\Debug\EntityFramework.xml
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\obj\Debug\ShopBridge.Service.csprojResolveAssemblyReference.cache
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\obj\Debug\ShopBridge.Service.dll
+D:\Dotnet\ShopBridge.UI\ShopBridge.Service\obj\Debug\ShopBridge.Service.pdb
